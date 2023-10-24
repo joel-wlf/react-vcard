@@ -1,7 +1,7 @@
-import facebook from "../assets/Facebook Icon.svg"
-import twitter from "../assets/Twitter Icon.svg"
-import github from "../assets/Github Icon.svg"
-import instagram from "../assets/Instagram Icon.png"
+import facebook from "../assets/facebook.svg"
+import twitter from "../assets/twitter.svg"
+import github from "../assets/github.svg"
+import instagram from "../assets/instagram.png"
 
 function Footer() {
     return (
